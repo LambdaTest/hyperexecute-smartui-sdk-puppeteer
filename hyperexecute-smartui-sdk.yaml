@@ -13,7 +13,7 @@ maxRetries: 1
 concurrency: 1
 
 env:
-  PROJECT_TOKEN: "509662#8110760a-3bf4-49ff-bd21-67a11f8e1a57#hyp-smartui-puppeteer" #Enter your project token here
+  PROJECT_TOKEN: "YOUR_PROJECT_TOKEN" #Enter your project token here
 
 pre:
   - npm i @lambdatest/smartui-cli @lambdatest/puppeteer-driver puppeteer
