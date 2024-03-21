@@ -144,7 +144,7 @@ OR use this command if you have not exported your username and access key in the
 e.g.
 
 ```bash
-./hyperexecute --user user1 --key 12345 --config hyp-smartui-sdk-puppeteer.yaml
+./hyperexecute --user user1 --key 12345 --config hyp-smartui-sdk.yaml
 ```
 
 ## Navigation in Automation Dashboard
